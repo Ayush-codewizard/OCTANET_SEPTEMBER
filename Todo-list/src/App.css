@@ -10,8 +10,8 @@
 body {
   background: linear-gradient(
     90deg,
-    rgba(48, 16, 255, 1) 0%,
-    rgba(100, 115, 255, 1) 100%
+    rgba(96, 2, 247, 0.7),
+    rgba(175, 50, 177, 0.632)
   );
 }
 .todo-app {
